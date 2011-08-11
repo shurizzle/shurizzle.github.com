@@ -1,5 +1,6 @@
 #!/bin/sh
 
+ls --hide=doeet --hide=README | xargs rm -rf
 cp -rf ../octosite/public/* .
 git add *
 git commit -am 'Updates, YAY!'
