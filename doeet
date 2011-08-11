@@ -3,4 +3,4 @@
 cp -rf ../octosite/public .
 git add *
 git commit -am 'Updates, YAY!'
-git push -u origin master
+git push -u origin gh-pages
