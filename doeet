@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cp -rf ../octosite/public .
+cp -rf ../octosite/public/* .
 git add *
 git commit -am 'Updates, YAY!'
 git push -u origin gh-pages
