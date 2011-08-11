@@ -4,7 +4,7 @@
   <title>My Octopress Blog</title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2011-08-11T12:45:12+02:00</updated>
+  <updated>2011-08-11T12:57:43+02:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name>Your Name</name>
@@ -15,7 +15,7 @@
   <entry>
     <title>Test</title>
     <link href="http://yoursite.com/blog/2011/08/11/test/"/>
-    <updated>2011-08-11T00:00:00+02:00</updated>
+    <updated>2011-08-11T12:34:00+02:00</updated>
     <id>http://yoursite.com/blog/2011/08/11/test</id>
     <content type="html">
 </content>
